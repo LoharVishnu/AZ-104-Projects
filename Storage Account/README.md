@@ -12,6 +12,7 @@ Azure Subscription
 ├── CloudX-Prod-RG
 │   └── Production Storage Account
 │       └── cloudx-production-data
+
 │
 └── CloudX-NonProd-RG
     └── Non-Production Storage Account
